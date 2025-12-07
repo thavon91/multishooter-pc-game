@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/web-app-project/', // <-- IMPORTANT // <-- your repo name
+  base: '/multishooter-pc-game/', // <-- IMPORTANT // <-- your repo name
 })
